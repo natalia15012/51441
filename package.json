@@ -1,0 +1,24 @@
+{
+  "name": "4to_analizador",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalia15012/51441.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalia15012/51441/issues"
+  },
+  "homepage": "https://github.com/natalia15012/51441#readme",
+  "description": ""
+}

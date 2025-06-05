@@ -1,0 +1,6 @@
+switch(x){
+    case 1: printf("Hola");
+    break;
+    default: printf("Adios");
+    break;
+}

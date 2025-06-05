@@ -1,0 +1,4 @@
+switch(y){
+    case 2: printf("Primero"); printf("Segundo");
+    break;
+}
